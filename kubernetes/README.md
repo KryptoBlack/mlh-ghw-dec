@@ -1,9 +1,11 @@
 # Deploying your first Kubernetes Cluster
 
-## Part 1
+## Docker Hub Image
 
-
+```
+$ docker pull kryptoblack/ghw:latest
+```
 
 ## Resources
 
-[GitHub Repository](https://github.com/ashwinexe/GHW-December)
+- [GitHub Repository](https://github.com/ashwinexe/GHW-December)
